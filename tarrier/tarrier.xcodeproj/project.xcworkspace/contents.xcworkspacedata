@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/wwake/Desktop/Twitch/tarrier/betwist/tarrier.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>

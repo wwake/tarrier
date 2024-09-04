@@ -1,2 +1,2 @@
-# betwist
-A word game
+# Tarrier
+A study box

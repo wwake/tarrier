@@ -1,4 +1,4 @@
-@testable import betwist
+@testable import tarrier
 import XCTest
 
 final class TarrierTests: XCTestCase {
